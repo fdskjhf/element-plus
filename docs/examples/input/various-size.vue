@@ -5,6 +5,7 @@
       style="width: 240px"
       size="large"
       placeholder="Please Input"
+      show-password=“true”
     />
     <el-input
       v-model="input2"
